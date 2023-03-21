@@ -1,10 +1,10 @@
 
 /*-------------------------------------------------------------------------
-// AUTHOR: Sierra Whitham 
+// AUTHOR: Sierra Whitham  
 // FILENAME: Assignment5.java
 // SPECIFICATION: this program checks the methods in class Geek, it is a test driver for class Geek
 // FOR: CS 1400- homework Assignment 5- Tu/Thu 10 - 11:50 am
-// TIME SPENT: 
+// TIME SPENT: 0 min.
 //----------------------------------------------------------------------*/
 
 //import Scanner class
@@ -103,7 +103,7 @@ public class Assignment5 {
 		            }
 
 		        } while (command != 'q');
-
+				console.close();
 		    }  //end of the main method
 
 
